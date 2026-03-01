@@ -27,22 +27,3 @@ I'm currently pursuing MCA from UEM, Jaipur<br>I'm looking to collaborate on AI-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anupmazumdar) 
 
-
-name: my-badges
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
-
-permissions:
-  contents: write
-
-jobs:
-  my-badges:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Update My Badges
-        run: npx update-my-badges ${{github.repository_owner}}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
