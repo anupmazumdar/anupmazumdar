@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/anupmazumdar/kbcoolegepythonproject/commit/a0cb139afe72025cea467589b9bfb1e216168954\"><strong>a</strong>0cb139afe72025cea467589b9bfb1e216168954</a>",
+    "body": "- <a href=\"https://github.com/anupmazumdar/kbcollegepythonproject-basic/commit/a0cb139afe72025cea467589b9bfb1e216168954\"><strong>a</strong>0cb139afe72025cea467589b9bfb1e216168954</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"github\".",
-    "body": "My favorite commit message words are:\n\n1. github (used 10 times)\n2. add (used 7 times)\n3. workflow (used 7 times)\n4. project (used 7 times)\n5. actions (used 6 times)",
+    "body": "My favorite commit message words are:\n\n1. github (used 12 times)\n2. workflow (used 11 times)\n3. add (used 9 times)\n4. actions (used 8 times)\n5. project (used 7 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -24,14 +24,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/kbcoolegepythonproject/commit/a0cb139afe72025cea467589b9bfb1e216168954\">a0cb139</a>\n- <a href=\"https://github.com/anupmazumdar/kbcoolegepythonproject/commit/1da9ba2c0eb14b4a98fdf4168a1fcdb79989896c\">1da9ba2</a>\n- <a href=\"https://github.com/anupmazumdar/kbcoolegepythonproject/commit/31a7cc4a7dd6b5dbcf9366d0023fa828684c368c\">31a7cc4</a>\n- <a href=\"https://github.com/anupmazumdar/kbcoolegepythonproject/commit/f3a8fa195171128a413f990c5abe52bc01a8035d\">f3a8fa1</a>\n- <a href=\"https://github.com/anupmazumdar/Ecommerce/commit/9f1022da051c3ed76302ce21b946dcac28e6df1d\">9f1022d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/kbcollegepythonproject-basic/commit/a0cb139afe72025cea467589b9bfb1e216168954\">a0cb139</a>\n- <a href=\"https://github.com/anupmazumdar/kbcollegepythonproject-basic/commit/1da9ba2c0eb14b4a98fdf4168a1fcdb79989896c\">1da9ba2</a>\n- <a href=\"https://github.com/anupmazumdar/kbcollegepythonproject-basic/commit/31a7cc4a7dd6b5dbcf9366d0023fa828684c368c\">31a7cc4</a>\n- <a href=\"https://github.com/anupmazumdar/kbcollegepythonproject-basic/commit/f3a8fa195171128a413f990c5abe52bc01a8035d\">f3a8fa1</a>\n- <a href=\"https://github.com/anupmazumdar/Ecommerce/commit/9f1022da051c3ed76302ce21b946dcac28e6df1d\">9f1022d</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/dec6777009a693a6fa08493258e17344e5e2ba83\">dec6777</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/8421efba0f814dd46f5c41c6c610704f2f65e42e\">8421efb</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/2b5ed0277bd06693f46812ca5aaf6bd4cc4ec913\">2b5ed02</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/120775d20f4ae0c8ef5653600d63f41d453aa8c6\">120775d</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/a4984d3c574bdc149fde13f7b58258764d4bcbe7\">a4984d3</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/1638c3a30e14a115d9d2628749638e2be171e854\">1638c3a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/kbcollegepythonproject-basic/commit/4d03b142155ddb52421b8e851bd7c8aaa6b36b0b\">4d03b14</a>\n- <a href=\"https://github.com/anupmazumdar/kbcollegepythonproject-basic/commit/495dcd1df49e6164761bd478d74455d8dd2c2171\">495dcd1</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/dec6777009a693a6fa08493258e17344e5e2ba83\">dec6777</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/8421efba0f814dd46f5c41c6c610704f2f65e42e\">8421efb</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/2b5ed0277bd06693f46812ca5aaf6bd4cc4ec913\">2b5ed02</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/120775d20f4ae0c8ef5653600d63f41d453aa8c6\">120775d</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
