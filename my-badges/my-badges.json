@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"github\".",
-    "body": "My favorite commit message words are:\n\n1. github (used 12 times)\n2. workflow (used 11 times)\n3. add (used 9 times)\n4. actions (used 8 times)\n5. project (used 7 times)",
+    "body": "My favorite commit message words are:\n\n1. github (used 12 times)\n2. workflow (used 11 times)\n3. add (used 9 times)\n4. actions (used 8 times)\n5. readme.md (used 7 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
