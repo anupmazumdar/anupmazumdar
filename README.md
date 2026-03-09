@@ -11,7 +11,6 @@ I'm currently pursuing MCA from UEM, Jaipur<br>I'm looking to collaborate on AI-
 
 
 ## 📂 Projects:
-- [🌾 GraminBharat](./GraminBharat) — A project focused on Rural India
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeroanup) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anup-mazumdar-1033b5321) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Thezeroanup) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anup-Mazumdar-14) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32437866) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MrAnupMazumdar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anupmazumdar6205) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thezeroanup0@gmail.com) 
