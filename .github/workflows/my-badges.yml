@@ -1,18 +1,19 @@
 name: my-badges
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Allows you to run it manually
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # Runs every day at midnight
 
 permissions:
-  contents: write
+  contents: write # Allows the tool to save images to your repo
 
 jobs:
-  my-badges:
+  update-badges:
     runs-on: ubuntu-latest
     steps:
       - name: Update My Badges
+        # This command uses the latest code from the project you linked
         run: npx update-my-badges anupmazumdar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
