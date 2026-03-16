@@ -9,85 +9,29 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 55 times)\n2. ai (used 24 times)\n3. added (used 24 times)\n4. superadmin (used 20 times)\n5. candidate (used 19 times)",
+    "desc": "My favorite word is \"github\".",
+    "body": "My favorite commit message words are:\n\n1. github (used 12 times)\n2. workflow (used 12 times)\n3. project (used 9 times)\n4. add (used 8 times)\n5. actions (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/95ee0e63c4ebd8cc03aeac6870627ba3d97ca0dc\">95ee0e6</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/506b80671e904a82e3f5459903c2e773e244832b\">506b806</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/bdef2326e004d59f2f6a3e0ac4bea47b361968fa\">bdef232</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/6efe66f63656ecef2571c15ec52396d5257154c7\">6efe66f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/506b80671e904a82e3f5459903c2e773e244832b\">506b806</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/bdef2326e004d59f2f6a3e0ac4bea47b361968fa\">bdef232</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/6efe66f63656ecef2571c15ec52396d5257154c7\">6efe66f</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/36d1d78b72ea2a6fda48607c4b3946608d5aabe5\">36d1d78</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/4e7496a12edaf1a5d99617de02271b72e36a330c\">4e7496a</a>\n- <a href=\"https://github.com/anupmazumdar/Ecommerce/commit/9f1022da051c3ed76302ce21b946dcac28e6df1d\">9f1022d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Ecommerce/commit/9f1022da051c3ed76302ce21b946dcac28e6df1d\">9f1022d</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/bfa7eaf304d476d1bcf645698fffdd76fc9a6565\">bfa7eaf</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/1c97feeed1ff69bba8ea5d7c6fd8bf91d48a2d3b\">1c97fee</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/c99366b90d13be757336a494ab7139a899e7f25c\">c99366b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/387a6c12fd1293ab70ac6b0ce56a2c309f111e43\">387a6c1</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/a0b6a676c91944b7f17c56f2d32836bed31d07d0\">a0b6a67</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6f77528d7cdfb05a6b86e0d8eb58207b263433ac\">6f77528</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/341643be5dc665885cd009a29fea3f86046d5266\">341643b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/66a344b769d4ec9382266ad5083d4fb902a2943b\">66a344b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/f69cddf9de7483328a6fc043f8ef5a1b537db53c\">f69cddf</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/8d825acdfaf606990aba6ef8edab485df71edfcc\">8d825ac</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/70ff6faab5c15fe0777a218e76dd1155265bd362\">70ff6fa</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/dec6777009a693a6fa08493258e17344e5e2ba83\">dec6777</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2029264109dea06c4f804cace537843a79580e85\">2029264</a>: chore(security): set superadmin defaults and upgrade multer to v2",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/bfa7eaf304d476d1bcf645698fffdd76fc9a6565\">bfa7eaf</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2534a6756fa3e82476c482c6a2a16f1f9615ce28\">2534a67</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6c35589dba07dedbfae07799d18cf3093ade8c16\">6c35589</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2a3439b13a8661277b18070b2fa08f3ba4e81f27\">2a3439b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/21f531251b66ca8c2ff3cce58679c4901a54e159\">21f5312</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/3707a6e95124b5c73f084c00e4f012944f6b6186\">3707a6e</a>: fix: use Auth0 userinfo endpoint instead of JWKS to fix FUNCTION_INVOCATION_FAILED\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/5f8641e095ec468594cb4200ef833ae8c89effe3\">5f8641e</a>: fix: switch Auth0 login to popup mode to eliminate Invalid state error",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/5e34cae3b3bed5861cfe26c8481d73dcffa2d877\">5e34cae</a>: fix(frontend): stabilize quiz scoring hook dependencies\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/9d7f685e19a055f5adaa1b4b18f1617aae3e4233\">9d7f685</a>: fix(api): repair interview prompt template causing serverless invocation crash\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/4ade5ee604bfc562118b9b6fa070cc4880abe9ad\">4ade5ee</a>: fix(frontend): handle non-json api error responses safely",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
-    "id": "fix-6",
-    "tier": 5,
-    "desc": "I did 6 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/1c97feeed1ff69bba8ea5d7c6fd8bf91d48a2d3b\">1c97fee</a>: fix: prevent theme toggle flash by avoiding double theme class application\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/c99366b90d13be757336a494ab7139a899e7f25c\">c99366b</a>: fix: load App.css so theme toggle styles are applied\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/387a6c12fd1293ab70ac6b0ce56a2c309f111e43\">387a6c1</a>: fix: remove jwks-rsa runtime path that crashes Vercel Node 24\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/a0b6a676c91944b7f17c56f2d32836bed31d07d0\">a0b6a67</a>: fix: add soft timeouts for init and auth audit persistence on serverless\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6f77528d7cdfb05a6b86e0d8eb58207b263433ac\">6f77528</a>: fix: add timeout to Auth0 userinfo call to prevent Vercel invocation failures\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/088122ad24efd4c1663036c8d056000ad6cc3f4a\">088122a</a>: fix: remove Tailwind CDN from production frontend",
-    "image": "https://my-badges.github.io/my-badges/fix-6.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/bfa7eaf304d476d1bcf645698fffdd76fc9a6565\">bfa7eaf</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/1c97feeed1ff69bba8ea5d7c6fd8bf91d48a2d3b\">1c97fee</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/c99366b90d13be757336a494ab7139a899e7f25c\">c99366b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/387a6c12fd1293ab70ac6b0ce56a2c309f111e43\">387a6c1</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/a0b6a676c91944b7f17c56f2d32836bed31d07d0\">a0b6a67</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6f77528d7cdfb05a6b86e0d8eb58207b263433ac\">6f77528</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/088122ad24efd4c1663036c8d056000ad6cc3f4a\">088122a</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/30b317b1b5f2f2bd0c99a770f750d9c668e172f1\">30b317b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/3707a6e95124b5c73f084c00e4f012944f6b6186\">3707a6e</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/5f8641e095ec468594cb4200ef833ae8c89effe3\">5f8641e</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/955ace361cd4317aba1dad73db8e8604e4144065\">955ace3</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2517d4fdbf1629ef544e743b8250d8b702fe4af4\">2517d4f</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/55d86a7c3ad917a87716540cda0a8c81d78c7b69\">55d86a7</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/register/commit/0a6104fce9f29409db0662aa9faf3a310ce67ad9\">0a6104f</a>\n- <a href=\"https://github.com/anupmazumdar/register/commit/03c818005ad88de7fa0af516c5f4b386052d6f17\">03c8180</a>\n- <a href=\"https://github.com/anupmazumdar/register/commit/97cb8f1eca2069edb3121e1429d84ddfc669fab2\">97cb8f1</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/0d7b873633bdd815358bc962f6e69b9ef9ce409f\">0d7b873</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]

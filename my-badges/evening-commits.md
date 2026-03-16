@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/bfa7eaf304d476d1bcf645698fffdd76fc9a6565">bfa7eaf</a>
-- <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/1c97feeed1ff69bba8ea5d7c6fd8bf91d48a2d3b">1c97fee</a>
-- <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/c99366b90d13be757336a494ab7139a899e7f25c">c99366b</a>
-- <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/387a6c12fd1293ab70ac6b0ce56a2c309f111e43">387a6c1</a>
-- <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/a0b6a676c91944b7f17c56f2d32836bed31d07d0">a0b6a67</a>
-- <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6f77528d7cdfb05a6b86e0d8eb58207b263433ac">6f77528</a>
+- <a href="https://github.com/anupmazumdar/anupmazumdar.github.io/commit/341643be5dc665885cd009a29fea3f86046d5266">341643b</a>
+- <a href="https://github.com/anupmazumdar/anupmazumdar.github.io/commit/66a344b769d4ec9382266ad5083d4fb902a2943b">66a344b</a>
+- <a href="https://github.com/anupmazumdar/anupmazumdar.github.io/commit/f69cddf9de7483328a6fc043f8ef5a1b537db53c">f69cddf</a>
+- <a href="https://github.com/anupmazumdar/anupmazumdar.github.io/commit/8d825acdfaf606990aba6ef8edab485df71edfcc">8d825ac</a>
+- <a href="https://github.com/anupmazumdar/anupmazumdar.github.io/commit/70ff6faab5c15fe0777a218e76dd1155265bd362">70ff6fa</a>
+- <a href="https://github.com/anupmazumdar/anupmazumdar/commit/dec6777009a693a6fa08493258e17344e5e2ba83">dec6777</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
