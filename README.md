@@ -19,7 +19,7 @@
 - 🤖 Prev. **ML & Web Dev Intern** @ Briztech Infosystems — deployed 2 ML models, 15% accuracy boost
 - 🌱 Learning to build scalable full-stack systems with AI/ML integration
 - 🏆 **NSS National Debate Competition Winner** — represented 18 states at NIC Camp, Haryana
-- 🔗 **ACM Student Chapter Member** — organizer at **HackUEM 5.0**
+- 🔗 **ACM Student Chapter Member** — 3rd Rank Holder at **HackUEM 5.0**
 - 💬 Ask me anything — I'm happy to help!
 - 📫 Reach me at **thezeroanup0@gmail.com**
 
