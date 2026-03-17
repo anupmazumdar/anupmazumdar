@@ -9,8 +9,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"github\".",
-    "body": "My favorite commit message words are:\n\n1. github (used 12 times)\n2. workflow (used 12 times)\n3. add (used 10 times)\n4. project (used 9 times)\n5. delete (used 8 times)",
+    "desc": "My favorite word is \"project\".",
+    "body": "My favorite commit message words are:\n\n1. project (used 15 times)\n2. add (used 13 times)\n3. workflow (used 13 times)\n4. github (used 12 times)\n5. update (used 10 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -33,5 +33,19 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/register/commit/f63357e6e74617610429cf02707866b48345b00f\">f63357e</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/341643be5dc665885cd009a29fea3f86046d5266\">341643b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/66a344b769d4ec9382266ad5083d4fb902a2943b\">66a344b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/f69cddf9de7483328a6fc043f8ef5a1b537db53c\">f69cddf</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/8d825acdfaf606990aba6ef8edab485df71edfcc\">8d825ac</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/70ff6faab5c15fe0777a218e76dd1155265bd362\">70ff6fa</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/af070aadf24b2aa728b623dc80002236ae8db8c2\">af070aa</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/00aab10bde2faac26ceb6ae987797aecf6345648\">00aab10</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/3e8f954d99dc12bcd58193d5562d3dded8f95952\">3e8f954</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/5f5b336b0218e697643012650c6fada538951e40\">5f5b336</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/dab69b3aebe6ca1f7795bd1adaeb652062a6cef6\">dab69b3</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/839f25787e5b5b5b1aa779cc59ce5ca668744c97\">839f257</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/aeaefcd8fe7f2820a4c6b9c19366cf9f7476cb2c\">aeaefcd</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
