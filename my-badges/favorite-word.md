@@ -7,8 +7,8 @@ My favorite commit message words are:
 1. project (used 15 times)
 2. add (used 13 times)
 3. workflow (used 13 times)
-4. github (used 12 times)
-5. update (used 10 times)
+4. update (used 12 times)
+5. badge (used 12 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
