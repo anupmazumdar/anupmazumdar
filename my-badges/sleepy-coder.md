@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/anupmazumdar/anupmazumdar/commit/b07b0b8890b5df3be1d717de44f61c54183861c5">b07b0b8</a>
+- <a href="https://github.com/anupmazumdar/register/commit/179dd69bfd282e9591f4be98a2f3abd0a344eedb">179dd69</a>
 - <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/95ee0e63c4ebd8cc03aeac6870627ba3d97ca0dc">95ee0e6</a>
 - <a href="https://github.com/anupmazumdar/iSchool/commit/506b80671e904a82e3f5459903c2e773e244832b">506b806</a>
 - <a href="https://github.com/anupmazumdar/iSchool/commit/bdef2326e004d59f2f6a3e0ac4bea47b361968fa">bdef232</a>

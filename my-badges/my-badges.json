@@ -10,14 +10,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 68 times)\n2. added (used 30 times)\n3. ai (used 24 times)\n4. update (used 22 times)\n5. updated (used 21 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 68 times)\n2. added (used 30 times)\n3. update (used 25 times)\n4. ai (used 24 times)\n5. updated (used 23 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/95ee0e63c4ebd8cc03aeac6870627ba3d97ca0dc\">95ee0e6</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/506b80671e904a82e3f5459903c2e773e244832b\">506b806</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/bdef2326e004d59f2f6a3e0ac4bea47b361968fa\">bdef232</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/6efe66f63656ecef2571c15ec52396d5257154c7\">6efe66f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar/commit/b07b0b8890b5df3be1d717de44f61c54183861c5\">b07b0b8</a>\n- <a href=\"https://github.com/anupmazumdar/register/commit/179dd69bfd282e9591f4be98a2f3abd0a344eedb\">179dd69</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/95ee0e63c4ebd8cc03aeac6870627ba3d97ca0dc\">95ee0e6</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/506b80671e904a82e3f5459903c2e773e244832b\">506b806</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/bdef2326e004d59f2f6a3e0ac4bea47b361968fa\">bdef232</a>\n- <a href=\"https://github.com/anupmazumdar/iSchool/commit/6efe66f63656ecef2571c15ec52396d5257154c7\">6efe66f</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
