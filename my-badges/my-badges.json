@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 62 times)\n2. added (used 31 times)\n3. update (used 25 times)\n4. ai (used 24 times)\n5. updated (used 23 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 64 times)\n2. added (used 31 times)\n3. update (used 26 times)\n4. ai (used 24 times)\n5. updated (used 23 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/0d7b873633bdd815358bc962f6e69b9ef9ce409f\">0d7b873</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/abc938b5bc4c4e9f58f701b885f6da95259d06db\"><strong>abc</strong>938b5bc4c4e9f58f701b885f6da95259d06db</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
   }
 ]
