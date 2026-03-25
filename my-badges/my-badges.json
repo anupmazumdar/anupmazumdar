@@ -110,5 +110,12 @@
     "desc": "One of my commit sha starts with \"abc\".",
     "body": "- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/abc938b5bc4c4e9f58f701b885f6da95259d06db\"><strong>abc</strong>938b5bc4c4e9f58f701b885f6da95259d06db</a>",
     "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/anupmazumdar/anupmazumdar\">anupmazumdar/anupmazumdar</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io\">anupmazumdar/anupmazumdar.github.io</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
