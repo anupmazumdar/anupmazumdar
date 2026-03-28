@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2029264109dea06c4f804cace537843a79580e85">2029264</a>: chore(security): set superadmin defaults and upgrade multer to v2
+- <a href="https://github.com/anupmazumdar/Greenblock/commit/71ec6642714d073c77a8abd323f3ffc009380730">71ec664</a>: chore: include backend and serial bridge systemd units
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

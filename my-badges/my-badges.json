@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 64 times)\n2. added (used 31 times)\n3. update (used 26 times)\n4. ai (used 24 times)\n5. updated (used 23 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 75 times)\n2. update (used 32 times)\n3. added (used 31 times)\n4. ai (used 24 times)\n5. updated (used 23 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,14 +31,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/341643be5dc665885cd009a29fea3f86046d5266\">341643b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/66a344b769d4ec9382266ad5083d4fb902a2943b\">66a344b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/f69cddf9de7483328a6fc043f8ef5a1b537db53c\">f69cddf</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/8d825acdfaf606990aba6ef8edab485df71edfcc\">8d825ac</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/70ff6faab5c15fe0777a218e76dd1155265bd362\">70ff6fa</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/bfa7eaf304d476d1bcf645698fffdd76fc9a6565\">bfa7eaf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/b734f060d5b7115259a7ccadbe7d16b22dbc1a0c\">b734f06</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/959bf44ababf513ceececd4de3f46962422a43d3\">959bf44</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/ef3b9f33b67a11e34dec42331771627576d743aa\">ef3b9f3</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/7d9321c5324d73d1b8f330223bb0ff21f5425f46\">7d9321c</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/9b0ac8efb956cbd5657f8fa8aaeeff614b11e63b\">9b0ac8e</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/b2a44a3dcc2050cf3f1e24f7d04531d81c597feb\">b2a44a3</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io/commit/af070aadf24b2aa728b623dc80002236ae8db8c2\">af070aa</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1ca47b66333ac5980e6343102330ece6bfa030b5\">1ca47b6</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2029264109dea06c4f804cace537843a79580e85\">2029264</a>: chore(security): set superadmin defaults and upgrade multer to v2",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/71ec6642714d073c77a8abd323f3ffc009380730\">71ec664</a>: chore: include backend and serial bridge systemd units",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2534a6756fa3e82476c482c6a2a16f1f9615ce28\">2534a67</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6c35589dba07dedbfae07799d18cf3093ade8c16\">6c35589</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2a3439b13a8661277b18070b2fa08f3ba4e81f27\">2a3439b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/21f531251b66ca8c2ff3cce58679c4901a54e159\">21f5312</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/9faa1f044a42d2be077b1550b33400ccc930ca22\">9faa1f0</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/49403bea8e2be857cf228462399d758c56611928\">49403be</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2534a6756fa3e82476c482c6a2a16f1f9615ce28\">2534a67</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6c35589dba07dedbfae07799d18cf3093ade8c16\">6c35589</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2a3439b13a8661277b18070b2fa08f3ba4e81f27\">2a3439b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/21f531251b66ca8c2ff3cce58679c4901a54e159\">21f5312</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -114,8 +114,36 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/anupmazumdar/anupmazumdar\">anupmazumdar/anupmazumdar</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io\">anupmazumdar/anupmazumdar.github.io</a>",
+    "desc": "I've starred 3 my own repositories.",
+    "body": "- <a href=\"https://github.com/anupmazumdar/anupmazumdar\">anupmazumdar/anupmazumdar</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io\">anupmazumdar/anupmazumdar.github.io</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock\">anupmazumdar/Greenblock</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1ca47b66333ac5980e6343102330ece6bfa030b5\">1ca47b6</a>: fix: remove node_modules and venv from tracking\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1f3ccba6678898c06f99c1e1b9a43e777410f7a0\">1f3ccba</a>: fix: remove pycache from tracking\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/147cfc5cd4d32196c97731a7e41531fb4c0a51bd\">147cfc5</a>: fix: remove venv from tracking\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/b734f060d5b7115259a7ccadbe7d16b22dbc1a0c\">b734f06</a>: fix: remove node_modules from git",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/fe942eb14d6875a84f79b2ce81e501a246bb344a\">fe942eb</a>: fix(frontend): validate API schema before accepting failover response\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/4745a7a775f4fd07aa95a6568d292cc745943c6a\">4745a7a</a>: fix(frontend): fail over when /api returns invalid payload\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1e73aa68f6af847e0bb144ecbae501b5f47e7217\">1e73aa6</a>: fix(frontend): avoid https mixed-content for API failover\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/17a9f3f9263cbec6d4fb53bca03f346fab1804ec\">17a9f3f</a>: fix(frontend): auto-target Pi backend from current host\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/852aa89c2eedd98271e0c76cc2a2029657d159d9\">852aa89</a>: fix(frontend): add API endpoint failover for dashboard connectivity",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1ca47b66333ac5980e6343102330ece6bfa030b5\">1ca47b6</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
