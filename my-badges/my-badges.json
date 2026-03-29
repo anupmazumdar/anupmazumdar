@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 75 times)\n2. update (used 32 times)\n3. added (used 31 times)\n4. ai (used 24 times)\n5. updated (used 23 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 86 times)\n2. update (used 34 times)\n3. added (used 31 times)\n4. ai (used 29 times)\n5. updated (used 23 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/b734f060d5b7115259a7ccadbe7d16b22dbc1a0c\">b734f06</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/959bf44ababf513ceececd4de3f46962422a43d3\">959bf44</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/ef3b9f33b67a11e34dec42331771627576d743aa\">ef3b9f3</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/7d9321c5324d73d1b8f330223bb0ff21f5425f46\">7d9321c</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/9b0ac8efb956cbd5657f8fa8aaeeff614b11e63b\">9b0ac8e</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/b2a44a3dcc2050cf3f1e24f7d04531d81c597feb\">b2a44a3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/55d284fd9f7ba612646c1887cc1e9e40ad3fc6e1\">55d284f</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/2923a1af9d53ea42426e442edf7a72ec3c6a588a\">2923a1a</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/b3d48864fb432f5b81ad45f8c66a18f2bd43a6eb\">b3d4886</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/0bcf85ccf61b5dbc73f27d671989f06029c48ad0\">0bcf85c</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/ebe041951c04807da0091892f49d922d865858ce\">ebe0419</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/ffa32884a3a943921d65f1851aea62b59bee919e\">ffa3288</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/71ec6642714d073c77a8abd323f3ffc009380730\">71ec664</a>: chore: include backend and serial bridge systemd units",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/2923a1af9d53ea42426e442edf7a72ec3c6a588a\">2923a1a</a>: chore: align callAI helper with OpenRouter reference",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "fix-6",
     "tier": 5,
     "desc": "I did 6 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/1c97feeed1ff69bba8ea5d7c6fd8bf91d48a2d3b\">1c97fee</a>: fix: prevent theme toggle flash by avoiding double theme class application\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/c99366b90d13be757336a494ab7139a899e7f25c\">c99366b</a>: fix: load App.css so theme toggle styles are applied\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/387a6c12fd1293ab70ac6b0ce56a2c309f111e43\">387a6c1</a>: fix: remove jwks-rsa runtime path that crashes Vercel Node 24\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/a0b6a676c91944b7f17c56f2d32836bed31d07d0\">a0b6a67</a>: fix: add soft timeouts for init and auth audit persistence on serverless\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6f77528d7cdfb05a6b86e0d8eb58207b263433ac\">6f77528</a>: fix: add timeout to Auth0 userinfo call to prevent Vercel invocation failures\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/088122ad24efd4c1663036c8d056000ad6cc3f4a\">088122a</a>: fix: remove Tailwind CDN from production frontend",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/4cf3d31eea1b1c55d973ab881a3ce727b4d0f402\">4cf3d31</a>: fix: ingest endpoint relay1/relay2 fields + arduino source priority\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/fe942eb14d6875a84f79b2ce81e501a246bb344a\">fe942eb</a>: fix(frontend): validate API schema before accepting failover response\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/4745a7a775f4fd07aa95a6568d292cc745943c6a\">4745a7a</a>: fix(frontend): fail over when /api returns invalid payload\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1e73aa68f6af847e0bb144ecbae501b5f47e7217\">1e73aa6</a>: fix(frontend): avoid https mixed-content for API failover\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/17a9f3f9263cbec6d4fb53bca03f346fab1804ec\">17a9f3f</a>: fix(frontend): auto-target Pi backend from current host\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/852aa89c2eedd98271e0c76cc2a2029657d159d9\">852aa89</a>: fix(frontend): add API endpoint failover for dashboard connectivity",
     "image": "https://my-badges.github.io/my-badges/fix-6.png"
   },
   {
@@ -124,13 +124,6 @@
     "desc": "I did 4 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1ca47b66333ac5980e6343102330ece6bfa030b5\">1ca47b6</a>: fix: remove node_modules and venv from tracking\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1f3ccba6678898c06f99c1e1b9a43e777410f7a0\">1f3ccba</a>: fix: remove pycache from tracking\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/147cfc5cd4d32196c97731a7e41531fb4c0a51bd\">147cfc5</a>: fix: remove venv from tracking\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/b734f060d5b7115259a7ccadbe7d16b22dbc1a0c\">b734f06</a>: fix: remove node_modules from git",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
-  },
-  {
-    "id": "fix-5",
-    "tier": 4,
-    "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/fe942eb14d6875a84f79b2ce81e501a246bb344a\">fe942eb</a>: fix(frontend): validate API schema before accepting failover response\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/4745a7a775f4fd07aa95a6568d292cc745943c6a\">4745a7a</a>: fix(frontend): fail over when /api returns invalid payload\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1e73aa68f6af847e0bb144ecbae501b5f47e7217\">1e73aa6</a>: fix(frontend): avoid https mixed-content for API failover\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/17a9f3f9263cbec6d4fb53bca03f346fab1804ec\">17a9f3f</a>: fix(frontend): auto-target Pi backend from current host\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/852aa89c2eedd98271e0c76cc2a2029657d159d9\">852aa89</a>: fix(frontend): add API endpoint failover for dashboard connectivity",
-    "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
     "id": "mass-delete-commit-10k",

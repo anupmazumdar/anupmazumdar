@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/anupmazumdar/Greenblock/commit/71ec6642714d073c77a8abd323f3ffc009380730">71ec664</a>: chore: include backend and serial bridge systemd units
+- <a href="https://github.com/anupmazumdar/Greenblock/commit/2923a1af9d53ea42426e442edf7a72ec3c6a588a">2923a1a</a>: chore: align callAI helper with OpenRouter reference
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
