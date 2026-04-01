@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 86 times)\n2. update (used 34 times)\n3. added (used 31 times)\n4. ai (used 29 times)\n5. updated (used 23 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 170 times)\n2. update (used 59 times)\n3. fix (used 49 times)\n4. vercel (used 47 times)\n5. remove (used 40 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,21 +59,21 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/bfa7eaf304d476d1bcf645698fffdd76fc9a6565\">bfa7eaf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/bfa7eaf304d476d1bcf645698fffdd76fc9a6565\">bfa7eaf</a>\n- <a href=\"https://github.com/anupmazumdar/GraminBharat/commit/2474000fba6dc44de96944347e585fa50383ccbe\">2474000</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/9faa1f044a42d2be077b1550b33400ccc930ca22\">9faa1f0</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/49403bea8e2be857cf228462399d758c56611928\">49403be</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2534a6756fa3e82476c482c6a2a16f1f9615ce28\">2534a67</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6c35589dba07dedbfae07799d18cf3093ade8c16\">6c35589</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2a3439b13a8661277b18070b2fa08f3ba4e81f27\">2a3439b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/21f531251b66ca8c2ff3cce58679c4901a54e159\">21f5312</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/9faa1f044a42d2be077b1550b33400ccc930ca22\">9faa1f0</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/49403bea8e2be857cf228462399d758c56611928\">49403be</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/6be2e04b91cdec8cb564e2f74f23cd94026e0d1b\">6be2e04</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/95333c256732af291e7e6ddf1284c1c250084ca0\">95333c2</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/88131c9dcb3663d2806e785a396f253765d3dcee\">88131c9</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/e1ab9b7e47b3a63e0225d4a8f8d382d084d2f607\">e1ab9b7</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/75b76020bd9741a203d893fcf5ea4d4e530da923\">75b7602</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/c2fbafb212db8a7d5678b28ca15d819d4f31e1e2\">c2fbafb</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/ef824b35ed3d0486064a7ebc54439330d250f41c\">ef824b3</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/e1c5b4626191a566827a1104f382f287b079598c\">e1c5b46</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/e1e58a53888bac42338f6f115052eec254aa669c\">e1e58a5</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/13009179ef16a5673e19e3b20a2e6978c2c638c9\">1300917</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2534a6756fa3e82476c482c6a2a16f1f9615ce28\">2534a67</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/6c35589dba07dedbfae07799d18cf3093ade8c16\">6c35589</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/2a3439b13a8661277b18070b2fa08f3ba4e81f27\">2a3439b</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/21f531251b66ca8c2ff3cce58679c4901a54e159\">21f5312</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/3707a6e95124b5c73f084c00e4f012944f6b6186\">3707a6e</a>: fix: use Auth0 userinfo endpoint instead of JWKS to fix FUNCTION_INVOCATION_FAILED\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/5f8641e095ec468594cb4200ef833ae8c89effe3\">5f8641e</a>: fix: switch Auth0 login to popup mode to eliminate Invalid state error",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Attendance-Using-Face-Recognition/commit/6963d0b2274dddc3712af07de29c85d2c77bea70\">6963d0b</a>: Fix MD022: Add blank line below ### Simple UI heading\n- <a href=\"https://github.com/anupmazumdar/Attendance-Using-Face-Recognition/commit/2cc98c18a1c6dd39620b6ec034162b6f8903b1dd\">2cc98c1</a>: Fix markdown linting errors: remove trailing spaces, fix heading levels, add blank lines",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -114,15 +114,15 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 3 my own repositories.",
-    "body": "- <a href=\"https://github.com/anupmazumdar/anupmazumdar\">anupmazumdar/anupmazumdar</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io\">anupmazumdar/anupmazumdar.github.io</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock\">anupmazumdar/Greenblock</a>",
+    "desc": "I've starred 7 my own repositories.",
+    "body": "- <a href=\"https://github.com/anupmazumdar/anupmazumdar\">anupmazumdar/anupmazumdar</a>\n- <a href=\"https://github.com/anupmazumdar/SuperApp\">anupmazumdar/SuperApp</a>\n- <a href=\"https://github.com/anupmazumdar/GraminBharat\">anupmazumdar/GraminBharat</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar.github.io\">anupmazumdar/anupmazumdar.github.io</a>\n- <a href=\"https://github.com/anupmazumdar/Greenblock\">anupmazumdar/Greenblock</a>\n- <a href=\"https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent\">anupmazumdar/anupmazumdar-AIRecruitmentAgent</a>\n- <a href=\"https://github.com/anupmazumdar/Attendance-Using-Face-Recognition\">anupmazumdar/Attendance-Using-Face-Recognition</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1ca47b66333ac5980e6343102330ece6bfa030b5\">1ca47b6</a>: fix: remove node_modules and venv from tracking\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/1f3ccba6678898c06f99c1e1b9a43e777410f7a0\">1f3ccba</a>: fix: remove pycache from tracking\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/147cfc5cd4d32196c97731a7e41531fb4c0a51bd\">147cfc5</a>: fix: remove venv from tracking\n- <a href=\"https://github.com/anupmazumdar/Greenblock/commit/b734f060d5b7115259a7ccadbe7d16b22dbc1a0c\">b734f06</a>: fix: remove node_modules from git",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/Attendance-Using-Face-Recognition/commit/fc8ae6c2965aaaf69bebed1818617c9736de6b15\">fc8ae6c</a>: Fix 13 remaining grammar, phrasing, and capitalization issues\n- <a href=\"https://github.com/anupmazumdar/Attendance-Using-Face-Recognition/commit/482038ce33188030d459bf1bf814b65a5292f669\">482038c</a>: Fix 16 grammar, punctuation, and image link issues in README\n- <a href=\"https://github.com/anupmazumdar/Attendance-Using-Face-Recognition/commit/d9cb0d934d61e5fb7f79c21ea7625b75c0567e02\">d9cb0d9</a>: Fix spelling, grammar, and formatting issues in README.md\n- <a href=\"https://github.com/anupmazumdar/Attendance-Using-Face-Recognition/commit/90bab0eb1969c8405046c9efe9a0cf8c08861b7b\">90bab0e</a>: Fix image paths in README.md",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
@@ -138,5 +138,19 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/ef88782a16fef0d85e3f0a1efd0576b334d1bd72\">ef88782</a>: fix: handle profiles schema variants during registration\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/e9ad63da1c2d1b9cd4f8099fcb76fef7475dc11c\">e9ad63d</a>: fix: use /api/auth action routes and handle non-JSON auth responses\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/5b62a7f663be45d8dfb4777644f5d8be98da3593\">5b62a7f</a>: fix: update auth.js with supabase and jwt fixes\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/7061679568722e906c8e1917585d1f018100a024\">7061679</a>: fix: add supabase and jsonwebtoken dependencies\n- <a href=\"https://github.com/anupmazumdar/SuperApp/commit/ea9f07d63c0cf739e80e9b9ac49e5414794c4eee\">ea9f07d</a>: fix: add supabase dependency",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anupmazumdar/GraminBharat/commit/719a76795e3228bde176c57a2dd6374a36593f9e\">719a767</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]

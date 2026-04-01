@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/3707a6e95124b5c73f084c00e4f012944f6b6186">3707a6e</a>: fix: use Auth0 userinfo endpoint instead of JWKS to fix FUNCTION_INVOCATION_FAILED
-- <a href="https://github.com/anupmazumdar/anupmazumdar-AIRecruitmentAgent/commit/5f8641e095ec468594cb4200ef833ae8c89effe3">5f8641e</a>: fix: switch Auth0 login to popup mode to eliminate Invalid state error
+- <a href="https://github.com/anupmazumdar/Attendance-Using-Face-Recognition/commit/6963d0b2274dddc3712af07de29c85d2c77bea70">6963d0b</a>: Fix MD022: Add blank line below ### Simple UI heading
+- <a href="https://github.com/anupmazumdar/Attendance-Using-Face-Recognition/commit/2cc98c18a1c6dd39620b6ec034162b6f8903b1dd">2cc98c1</a>: Fix markdown linting errors: remove trailing spaces, fix heading levels, add blank lines
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

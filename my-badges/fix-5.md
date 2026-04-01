@@ -4,11 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/anupmazumdar/Greenblock/commit/fe942eb14d6875a84f79b2ce81e501a246bb344a">fe942eb</a>: fix(frontend): validate API schema before accepting failover response
-- <a href="https://github.com/anupmazumdar/Greenblock/commit/4745a7a775f4fd07aa95a6568d292cc745943c6a">4745a7a</a>: fix(frontend): fail over when /api returns invalid payload
-- <a href="https://github.com/anupmazumdar/Greenblock/commit/1e73aa68f6af847e0bb144ecbae501b5f47e7217">1e73aa6</a>: fix(frontend): avoid https mixed-content for API failover
-- <a href="https://github.com/anupmazumdar/Greenblock/commit/17a9f3f9263cbec6d4fb53bca03f346fab1804ec">17a9f3f</a>: fix(frontend): auto-target Pi backend from current host
-- <a href="https://github.com/anupmazumdar/Greenblock/commit/852aa89c2eedd98271e0c76cc2a2029657d159d9">852aa89</a>: fix(frontend): add API endpoint failover for dashboard connectivity
+- <a href="https://github.com/anupmazumdar/SuperApp/commit/ef88782a16fef0d85e3f0a1efd0576b334d1bd72">ef88782</a>: fix: handle profiles schema variants during registration
+- <a href="https://github.com/anupmazumdar/SuperApp/commit/e9ad63da1c2d1b9cd4f8099fcb76fef7475dc11c">e9ad63d</a>: fix: use /api/auth action routes and handle non-JSON auth responses
+- <a href="https://github.com/anupmazumdar/SuperApp/commit/5b62a7f663be45d8dfb4777644f5d8be98da3593">5b62a7f</a>: fix: update auth.js with supabase and jwt fixes
+- <a href="https://github.com/anupmazumdar/SuperApp/commit/7061679568722e906c8e1917585d1f018100a024">7061679</a>: fix: add supabase and jsonwebtoken dependencies
+- <a href="https://github.com/anupmazumdar/SuperApp/commit/ea9f07d63c0cf739e80e9b9ac49e5414794c4eee">ea9f07d</a>: fix: add supabase dependency
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
